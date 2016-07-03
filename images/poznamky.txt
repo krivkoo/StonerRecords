@@ -1,0 +1,4 @@
+oppacity layer 60 - 90% cierna - oppacity 60% - vrstva na background pod logo a buttony 
+oppacity layer 50 - 90%cierna - oppacity 50% - vrstva pod buttony
+
+pozn. pod buttony treba nastavit podsvietenie ked z miškou na nich prídeš
